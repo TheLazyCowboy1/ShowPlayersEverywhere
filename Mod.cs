@@ -22,7 +22,7 @@ public class Mod : BaseUnityPlugin
 {
     public const string MOD_ID = "LazyCowboy.ShowPlayersEverywhere";
     public const string MOD_NAME = "Show Players Everywhere";
-    public const string MOD_VERSION = "0.0.1";
+    public const string MOD_VERSION = "0.0.2";
 
     #region setup
     public Mod()

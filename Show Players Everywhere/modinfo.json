@@ -1,11 +1,11 @@
 {
   "id": "LazyCowboy.ShowPlayersEverywhere",
   "name": "Show Players Everywhere",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": "LazyCowboy",
   "description": "Allows players to be seen on the map, even when they're in other rooms! Intended for use with Rain Meadow, although it can function with Jolly Co-op.<LINE><LINE>Features:<LINE>* Accurate player colors and positions<LINE>* Purely client-side, so the mod works even if no one else has it in Rain Meadow<LINE>* Quick visibility of player icons (they appear faster than the map fades in)<LINE>* Does NOT show you players in other regions, since those other regions use completely separate maps.<LINE>* A questionably simple yet somewhat inefficient implementation. Oh well, at least no bugs!(*)<LINE><LINE>((*)Bugs are a guaranteed part of Rain World mods. That said, I haven't found any yet for this mod. Seems totally stable. It's literally only one hook, so what could go wrong anyway??)",
   "requirements": [],
   "requirements_names": [],
-  "tags": ["Accessibility", "Rain Meadow mods"],
+  "tags": ["Accessibility", "Rain Meadow mods", "Base", "Downpour", "Watcher"],
   "checksum_override_version": false
 }
